@@ -1,1 +1,13 @@
+<style>
+body{
+  background-image: url("https://github.com/WednesdayHsu/DMST103Twine/tree/main/images/raindrop.jpg");
+  color: white;
+  font-size: 45px;
+}
 
+table {
+  width:100%;
+  border:1px solid black;
+  font-size:45px;
+}
+</style>
